@@ -57,22 +57,7 @@ Interactive alarm clock built using Python.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghu3454&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu3454&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raghu3454&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
